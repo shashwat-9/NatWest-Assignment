@@ -1,6 +1,6 @@
 # NatWest-Assignment
 
-This project is swagger enabled -> http://localhost:8080/swagger-ui.html#
+This project is swagger enabled. Hit -> http://localhost:8080/swagger-ui.html# when run locally
 
 The project runs locally as localhost:8080/play
 
